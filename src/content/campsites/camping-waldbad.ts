@@ -128,7 +128,7 @@ export const campingWaldbad: CampsiteConfig = {
       { src: `${IMG}/galerie-radtour.webp`, alt: "Radfahrer vor einem blumengeschmückten Bauernhaus im Drautal" },
       { src: `${IMG}/galerie-waldbad.webp`, alt: "Erlebnis-Freibad am Camping Waldbad mit Wasserrutsche und Liegewiese" },
       { src: `${IMG}/galerie-camping.webp`, alt: "Stellplätze zwischen Bäumen am Camping Waldbad" },
-      { src: `${IMG}/galerie-familie.webp`, alt: "Kinder beim Spielen auf der Slackline am Camping Waldbad" },
+      { src: `${IMG}/galerie-familie.webp`, alt: "Kinder beim Animationsprogramm auf der Wiese beim Erlebnis-Freibad am Camping Waldbad" },
     ],
   },
 
