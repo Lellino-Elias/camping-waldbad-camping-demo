@@ -155,7 +155,7 @@ export const campingWaldbad: CampsiteConfig = {
     mail: "info@camping-waldbad.at",
     facebook: "https://www.facebook.com/camping.amwaldbad",
     adresse: "Raßnig 8 · 9772 Dellach im Drautal · Kärnten",
-    coords: { lat: 46.74433, lng: 13.13217 },
+    coords: { lat: 46.730716, lng: 13.07854 },
   },
 
   languages: ["DE"],
