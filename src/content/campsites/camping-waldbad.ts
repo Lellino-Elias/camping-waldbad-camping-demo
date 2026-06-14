@@ -38,8 +38,8 @@ export const campingWaldbad: CampsiteConfig = {
   },
 
   pillars: [
-    { title: "Am Waldrand & an der Drau", text: "Direkt am Waldrand und neben der herrlichen Drau, mitten im Luftkurort Dellach — eingebettet in eine große, parkartige Freizeit- und Sportanlage.", image: { src: `${IMG}/lage-stellplatz.webp`, alt: "Wohnmobil auf einem Stellplatz am Waldrand mit Blick auf die Berge des Oberen Drautals" } },
-    { title: "Kostenloses Erlebnis-Freibad", text: "Das angeschlossene Erlebnis-Freibad mit Sport- und Erlebnisbecken, Riesen-Wasserrutsche und Kinderbecken ist für Campinggäste gratis.", image: { src: `${IMG}/waldbad-panorama.webp`, alt: "Erlebnis-Freibad am Camping Waldbad mit Wasserrutsche und Becken" } },
+    { title: "Am Waldrand & an der Drau", text: "Direkt am Waldrand und neben der Drau — eingebettet in eine große, parkartige Freizeit- und Sportanlage im Luftkurort Dellach.", image: { src: `${IMG}/lage-stellplatz.webp`, alt: "Wohnmobil auf einem Stellplatz am Waldrand mit Blick auf die Berge des Oberen Drautals" } },
+    { title: "Kostenloses Erlebnis-Freibad", text: "Sport- und Erlebnisbecken, Riesen-Wasserrutsche und Kinderbecken — für Campinggäste kostenlos.", image: { src: `${IMG}/waldbad-panorama.webp`, alt: "Erlebnis-Freibad am Camping Waldbad mit Wasserrutsche und Becken" } },
     { title: "Freizeit für die ganze Familie", text: "Pumptrack, Skaterpark und Fußballplatz in der großen Freizeitanlage direkt vor dem Platz — dazu Abenteuerspielplatz und Animation.", image: { src: `${IMG}/pumptrack.webp`, alt: "Mountainbiker auf dem Pumptrack in der Freizeitanlage vor dem Campingplatz" } },
   ],
 
@@ -76,12 +76,12 @@ export const campingWaldbad: CampsiteConfig = {
     intro:
       "186 großzügige Stellplätze für Zelt, Wohnwagen und Wohnmobil — mit Strom und Wasser in unmittelbarer Nähe, modernst ausgestatteten Sanitäranlagen und allem, was Campingurlaub südlich der Alpen ausmacht.",
     features: [
-      { title: "Camping mitten in der Natur", text: "Ebene Stellplätze am Waldrand, umgeben von Wäldern und den Bergen des Oberen Drautals — Campingerlebnis pur in einer großen, parkartigen Anlage.", image: { src: `${IMG}/camping-allee.webp`, alt: "Campingplatz Waldbad mit Wohnwagen und Vorzelten zwischen Wiesen und Bergen" } },
+      { title: "Camping mitten in der Natur", text: "Ebene Stellplätze am Waldrand, umgeben von den Bergen des Drautals — Campingerlebnis pur in einer großen, parkartigen Anlage.", image: { src: `${IMG}/camping-allee.webp`, alt: "Campingplatz Waldbad mit Wohnwagen und Vorzelten zwischen Wiesen und Bergen" } },
       { title: "186 ebene Stellplätze", text: "Schöne, ebene Plätze für Zelt, Wohnwagen und Wohnmobil — Strom und Wasser sind in unmittelbarer Nähe.", image: { src: `${IMG}/stellplaetze.webp`, alt: "Ebene Stellplätze mit Wohnwagen und Vorzelten am Camping Waldbad" } },
-      { title: "Moderne Sanitäranlagen", text: "Modernst ausgestattete Sanitäranlagen mit Warmwasser — die Warmwasserversorgung läuft seit Kurzem über eine umweltfreundliche Wärmepumpe.", image: { src: `${IMG}/sanitaer.webp`, alt: "Überdachte Spülküche mit Edelstahlbecken am Camping Waldbad" } },
+      { title: "Moderne Sanitäranlagen", text: "Modernst ausgestattete Sanitäranlagen mit Warmwasser, das umweltfreundlich per Wärmepumpe erzeugt wird.", image: { src: `${IMG}/sanitaer.webp`, alt: "Überdachte Spülküche mit Edelstahlbecken am Camping Waldbad" } },
       { title: "Gepflegte Anlage", text: "Eine liebevoll gepflegte Anlage mit modernen Gebäuden und einem Wildbach mit Stauvorrichtung zum Spielen.", image: { src: `${IMG}/anlagen-wildbach.webp`, alt: "Modernes Platzgebäude mit Wildbach-Wasserspielanlage am Camping Waldbad" } },
       { title: "Herzlich willkommen", text: "Schon am Eingang heißt dich der blumengeschmückte Willkommensstein willkommen — hier fühlt sich die ganze Familie wohl.", image: { src: `${IMG}/willkommen.webp`, alt: "Blumengeschmückter Willkommensstein am Eingang des Camping Waldbad" } },
-      { title: "Erlebnis-Freibad inklusive", text: "Das angeschlossene Erlebnis-Freibad mit Riesen-Wasserrutsche ist für Campinggäste kostenlos – Pritscheln & Plantschen direkt am Platz.", image: { src: `${IMG}/wasserrutsche.webp`, alt: "Gelbe Riesen-Wasserrutsche im Erlebnis-Freibad am Camping Waldbad" } },
+      { title: "Erlebnis-Freibad inklusive", text: "Das Erlebnis-Freibad mit Riesen-Wasserrutsche ist für Campinggäste kostenlos — Badespaß direkt am Platz.", image: { src: `${IMG}/wasserrutsche.webp`, alt: "Gelbe Riesen-Wasserrutsche im Erlebnis-Freibad am Camping Waldbad" } },
     ],
   },
 
